@@ -1,5 +1,5 @@
 """
-Eduonix Project for Introduction to Pythonfor AI and Machine learning
+Eduonix Project for Introduction to Python for AI and Machine learning
 Author: Sandi De La Vega
 """
 import random
